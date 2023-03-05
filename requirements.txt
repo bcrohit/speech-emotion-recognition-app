@@ -1,0 +1,13 @@
+os
+wave
+joblib
+numpy
+pandas
+prediction
+PIL
+streamlit
+soundfile
+matplotlib.pyplot
+audiorecorder.audiorecorder
+streamlit_option_menu.option_menu
+sklearn.preprocessing.RobustScaler
